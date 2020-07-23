@@ -1,0 +1,13 @@
+Êþº¾   3 A
+  $ %
+  $ &
+  $ '
+  (	 ) * +
+ , -
+  .
+  / 0 1 2 3 4 5 <init> ()V Code LineNumberTable LocalVariableTable this  Lorg/example/behavioral/Adapter; main ([Ljava/lang/String;)V args [Ljava/lang/String; sparrow  Lorg/example/behavioral/Sparrow; duck Lorg/example/behavioral/Duck; birdAdapter 
+SourceFile Adapter.java   org/example/behavioral/Sparrow "org/example/behavioral/PlasticDuck "org/example/behavioral/BirdAdapter  6 7 8 9 Sparrow : ; < =  >  Duck ? @  Bird Adapter org/example/behavioral/Adapter java/lang/Object  (Lorg/example/behavioral/Bird;)V java/lang/System out Ljava/io/PrintStream; java/io/PrintStream println (Ljava/lang/String;)V fly 	makeSound org/example/behavioral/Duck squeak !               /     *· ±           /             	       ¶     F» Y· L» Y· M» Y+· N² 	¶ 
++¶ +¶ ² 
+¶ 
+,¹  ² ¶ 
+-¹  ±       .    1  2  3  5 ! 6 % 7 ) 9 1 : 7 < ? = E >    *    F      >     6      - !     "    #
